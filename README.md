@@ -44,7 +44,7 @@
 ## 🌱 Currently Learning
 - Advanced Neural Network Architectures
 - MLOps Practices (Docker, MLflow)
-- Natural Language Processing Basics
+- Natural Language Processing 
 
 ---
 
