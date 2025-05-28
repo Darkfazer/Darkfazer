@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Yasser Daoud
 **M.Sc. Data Analytics & AI Student | Machine Learning Enthusiast**  
 📍 Agadir, Morocco | 🎯 Passionate about Applied AI & Computer Vision  
+ **Portfolio :** https://dashing-salamander-6f9281.netlify.app/
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/yasser-daoud-799893288)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white)](mailto:yasser.daoud@edu.uiz.ac.ma)
